@@ -4,7 +4,7 @@ Welcome to my personal portfolio, built with React, TypeScript, Vite, and Tailwi
 
 ## 🌐 Live Demo
 
-👉 [View the portfolio demo](https://your-demo-link.com)
+👉 [View the portfolio demo]([https://your-demo-link.com](https://my-portfolio-xi-nine-40.vercel.app/))
 
 ## ✨ Key Features
 
