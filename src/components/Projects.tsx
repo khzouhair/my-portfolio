@@ -26,7 +26,7 @@ const Projects = () => {
       description: 'Developed Deep Learning models (LSTM, GRU, TCN) to predict hydraulic HGL curves with automated reporting and chatbot integration.',
       technologies: ['Python', 'LSTM', 'GRU', 'TCN', 'TensorFlow', 'Keras', 'n8n', 'Data Preprocessing'],
       liveLink: '#',
-      githubLink: '#',
+      githubLink: 'https://github.com/khzouhair/OCP_Internship',
       color: 'from-emerald-500 to-emerald-600',
   image: '/project3.png'
     },
