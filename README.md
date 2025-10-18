@@ -1,10 +1,10 @@
-# 🚀 Portfolio of [Your Name]
+# 🚀 My Portfolio 
 
 Welcome to my personal portfolio, built with React, TypeScript, Vite, and Tailwind CSS. Explore my projects, skills, and experience in web development, data science, and artificial intelligence.
 
 ## 🌐 Live Demo
 
-👉 [View the portfolio demo]([https://your-demo-link.com](https://my-portfolio-xi-nine-40.vercel.app/))
+👉 [View the portfolio demo](https://my-portfolio-xi-nine-40.vercel.app/)
 
 ## ✨ Key Features
 
@@ -54,10 +54,6 @@ project/
 ├── package.json
 └── ...
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or pull request.
 
 ## 📬 Contact
 
