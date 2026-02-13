@@ -36,7 +36,7 @@ const Hero = () => {
               View Projects
             </button>
             <a
-              href="/cv.pdf"
+              href="/Khadija Zouhair.pdf"
               download
               className="inline-flex items-center px-8 py-4 bg-white text-sky-500 border-2 border-sky-500 rounded-full font-semibold hover:bg-sky-50 transition-colors duration-200 shadow-lg hover:shadow-xl"
             >
